@@ -2,7 +2,7 @@
 
 A Registration and login form with validation 
 
-[![PhotoCollage_1686315730491](https://i.im.ge/2023/06/13/iUnBlr.PhotoCollage-1686315730491.jpg)](https://im.ge/i/iUnBlr)
+![Login](https://github.com/springtofigh/signup-and-login/assets/90114320/ce1e497b-623b-421b-95d9-011127689f23)
 
 In the project directory, you can run:
 
@@ -18,12 +18,16 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
-[![Signup Login Form-1-1](https://i.im.ge/2023/06/13/iU41ly.Signup-Login-Form-1-1.png)](https://im.ge/i/iU41ly)
+![Signup Login Form-1-1](https://github.com/springtofigh/signup-and-login/assets/90114320/61e14da7-c9fa-4a1d-9697-5b3361a777f0)
 
 
-[![Signup Login Form-3](https://i.im.ge/2023/06/13/iU400Y.Signup-Login-Form-3.png)](https://im.ge/i/iU400Y)
+![Signup Login Form-3](https://github.com/springtofigh/signup-and-login/assets/90114320/fa0deb36-182a-4716-8414-8d9dba8410e3)
+
 
 ##  Technologies that I used in this project
 
+✴ React
+
+✴ CSS
 
 ✴ React Toastify
